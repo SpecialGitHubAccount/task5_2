@@ -1,0 +1,6 @@
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task5\Task5_2\bin\Debug\Task5_2.exe.config
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task5\Task5_2\bin\Debug\Task5_2.exe
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task5\Task5_2\bin\Debug\Task5_2.pdb
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task5\Task5_2\obj\Debug\Task5_2.csprojResolveAssemblyReference.cache
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task5\Task5_2\obj\Debug\Task5_2.exe
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task5\Task5_2\obj\Debug\Task5_2.pdb
